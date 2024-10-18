@@ -1,0 +1,33 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f9fa;
+}
+
+h2, h3 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+#themeButton {
+    position: sticky;
+    top: 10px;
+}
+
+.dark-mode {
+    background-color: #343a40;
+    color: #ffffff;
+}
+
+.dark-mode .card {
+    background-color: #495057;
+    color: #ffffff;
+}
+
+.dark-mode .btn-primary {
+    background-color: #0069d9;
+    border-color: #0062cc;
+}
